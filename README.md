@@ -8,11 +8,11 @@
 ## Do the good
 
 ### Smart Chain Wallet(BUSD/BNB/BCOIN):
-#### 0xbd06182D8360FB7AC1B05e871e56c76372510dDf
+#### 0x64a63D24234b2Fd661682A9d5915838F632a99a5
 
 ### PIX:
-  6ce2b79e-97be-4881-a882-81902e29d7ce
-![pix](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/pix.jpeg)
+  ??????
+![pix](https://github.com/)
 
   
 # Sobre:
@@ -33,8 +33,8 @@ alguma forma.
  
 
 ### Paypal:
-[Donate:](https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ)
-https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ
+[Donate:](https://www.paypal.com/donate?hosted_button_id=????)
+https://www.paypal.com/donate?hosted_button_id=????
 or
 mpcabete@protonmail.com
 
