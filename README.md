@@ -220,7 +220,7 @@ exemplo na pasta “targets” para uma tirada no seu próprio computador:
 ## Curtiu? Dê aquela fortalecida :)
 
 ### Wallet:
-#### 0xbd06182D8360FB7AC1B05e871e56c76372510dDf
+#### 0x64a63D24234b2Fd661682A9d5915838F632a99a5
 ### Paypal:
-[Donate](https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ)
+[Donate](https://www.paypal.com/donate?hosted_button_id=????)
 
